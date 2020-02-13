@@ -1,0 +1,126 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Linguagens da seção de empresas
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used during authentication for various
+    | messages that we need to display to the user. You are free to modify
+    | these language lines according to your application's requirements.
+    |
+    Por Demerval Alves Junior
+    */
+
+    'Companies' => 'Empresas',
+    'Complement' => 'Complemento',
+    'Company' => 'Empresa',
+    'throttle' => 'Muistas tentativas sem sucesso. Tente novamente em instantes.',
+    
+    'Name' => 'Nome',
+    'Address' => 'Endereço',
+    'Number' => 'Número',
+    'Neighborhood' => 'Bairro',
+    'Citie' => 'Cidade',
+    'Employees' => 'Funcionários',
+    'Edit' => 'Editar',
+    'Delete' => 'Deletar',
+    'Add'=>'Adicionar',
+    'cnpj' => 'CNPJ',
+    'Aprove' => 'Aprova',
+    'Active' => 'Ativo',
+    'Billing' => 'Faturando',
+    'Client' => 'Cliente',
+    'Country' => 'País',
+    'State' => 'Estado',
+    'Input a text...' => 'Dgitie um texto...',
+    'Save' => 'Salvar',
+    'add' => 'adicionar',
+    'edit' => 'editar',
+    'Deliver date' => 'Data de entrega',
+    'Description' => 'Descrição',
+    'Initials' => 'Iniciais',
+    'Documents' => 'Documentos',
+    'Document' => 'Documento',
+    'document' => 'documento',
+    'documents' => 'documentos',
+    'Services' => 'Serviços',
+    'Service' => 'Serviço',
+    'services' => 'serviços',
+    'service' => 'serviço',
+    'Employees of' => 'Funcionários de',
+    'cpf' => 'CPF',
+    'Employee' => 'Fucionário',
+    'rg' => 'RG',
+    'Borndate' => 'Nascimento',
+    'Allowed' => 'Autorizado',
+    'Abaco Criteria' => 'Critério Ábaco',
+    'CEP' => 'CEP',
+    'updated successfully!' => 'foi atualizado com sucesso!',
+    'has added successfully!' => 'foi adicionado com sucesso!',
+    'has removed successfully!' => 'removido com sucesso!',
+    'has edited successfully!' => 'foi editado com sucesso!',
+    'already exists!' => 'já existe!',
+    'Providers' => 'Fornecedores',
+    'Expires' => 'Validade',
+    'Delivereds' => 'Entregas',
+    'Delivered' => 'Entrega',
+    'delivered' => 'entrega',
+    'delivery' => 'entrega',
+    'Last expiration' => 'Ultima validade',
+    'Expiration' => 'Validade',
+    'attachment' => 'anexo',
+    'Attachments' => 'Anexos',
+    'Last deliver' => 'Última entrega',
+    'Upload for' => "Upload para",
+    'Users' => "Usuários",
+    'Roles' => "Regras",
+    'Permissions' => "Permissões",
+    'Profile' => "Perfil",
+    'Change password' => "Trocar Senha",
+    'Password' => "Senha",
+    'Password Confirmation' => "Confirmação de senha",
+    'User' => "Usuário",
+    'Date' => "Data",
+    'Added' => "Adicionado",
+    'Outsourceds' => "Terceiros",
+    'Peoples' => "Pessoas",
+    'Client emails' => "E-mail cliente",
+    'Provider emails' => "E-mail forncedor",
+    'Abaco emails' => "E-mail Abaco",
+    'Coma separeted values' => "valores separados por virgula",
+    'File' => "Arquivo",
+    'Files' => "Arquivos",
+    'Actions' => "Ações",
+    'Cancel' => "Cancelar",
+    'Confirm' => "Confirmar",
+    'Outsourced' => "Terceiros",
+    'Delete confirmation' => "Confirmar exclusão",
+    'Are you sure that you want to delete this ' => "Confirmar a exclusão deste ",
+    'file' => "arquivo",
+    'Branches' => "Filiais",
+    'Upload' => "Upload",
+    'Link' => "Vincular",
+    'Headquarter' => "Matriz",
+    'No one' => "Nenhum",
+    'Back' => "Voltar",
+    'Expired' => "Expirado",
+    'Valid' => "Válido",
+    'Expireds' => "Expirados",
+    'Reports' => "Relatórios",
+    'Contracting' => "Contratante",
+    'Not delivered' => "Não entregue",
+    'Print' => "Imprimir",
+    'Status' => "Status",
+    'Link1' => "Link1",
+    'Link2' => "Link2",
+
+    
+
+    
+
+    'Permission denied' => 'Permissão negada',
+ 
+];
